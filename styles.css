@@ -3,7 +3,7 @@ body {
 }
 
 .employer-list {
-    margin-left: 383px;
+    margin-left: 20px;
     width: 141px;
     height: 58px;
     font-family: Poppins;
@@ -12,6 +12,13 @@ body {
     font-size: 24px;
     line-height: 24px;
     color: #000000;
+}
+
+.employer-list-btn {
+    left: 871px;
+    width: 168px;
+    height: 40px;
+    border-radius: 5px;
 }
 
 .card-body {
@@ -77,12 +84,7 @@ body {
     border-radius: 5px;
 }
 
-.main1 {
-    float: right;
-    margin-right: 143px;
-}
-
-.main2 {
-    float: right;
-    margin-right: 143px;
+.row {
+    margin-right: -144px;
+    margin-left: 131px;
 }
